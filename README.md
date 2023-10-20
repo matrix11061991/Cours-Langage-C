@@ -7,7 +7,7 @@ b. Avantages et utilisations
 ### 2. Environnement de développement
 a. Installation d'un compilateur C
 b. Configuration d'un environnement de développement intégré (IDE)
-Structure d'un programme en C
+### Structure d'un programme en C
 a. Fonctions principales (main)
 b. Déclarations de variables et types de données
 c. Instructions et opérateurs de base
