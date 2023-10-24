@@ -3,7 +3,6 @@ Initiation au langage C
 ### 1. Introduction au langage C
  a. Historique et importance
 b. Avantages et utilisations
-
 ### 2. Environnement de développement
 a. Installation d'un compilateur C
 b. Configuration d'un environnement de développement intégré (IDE)
